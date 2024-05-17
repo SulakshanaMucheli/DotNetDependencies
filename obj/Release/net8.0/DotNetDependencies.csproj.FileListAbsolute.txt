@@ -1,0 +1,14 @@
+C:\Users\muche\OneDrive\Desktop\DotNetDependencies\bin\Release\net8.0\DotNetDependencies.exe
+C:\Users\muche\OneDrive\Desktop\DotNetDependencies\bin\Release\net8.0\DotNetDependencies.deps.json
+C:\Users\muche\OneDrive\Desktop\DotNetDependencies\bin\Release\net8.0\DotNetDependencies.runtimeconfig.json
+C:\Users\muche\OneDrive\Desktop\DotNetDependencies\bin\Release\net8.0\DotNetDependencies.dll
+C:\Users\muche\OneDrive\Desktop\DotNetDependencies\bin\Release\net8.0\DotNetDependencies.pdb
+C:\Users\muche\OneDrive\Desktop\DotNetDependencies\obj\Release\net8.0\DotNetDependencies.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\muche\OneDrive\Desktop\DotNetDependencies\obj\Release\net8.0\DotNetDependencies.AssemblyInfoInputs.cache
+C:\Users\muche\OneDrive\Desktop\DotNetDependencies\obj\Release\net8.0\DotNetDependencies.AssemblyInfo.cs
+C:\Users\muche\OneDrive\Desktop\DotNetDependencies\obj\Release\net8.0\DotNetDependencies.csproj.CoreCompileInputs.cache
+C:\Users\muche\OneDrive\Desktop\DotNetDependencies\obj\Release\net8.0\DotNetDependencies.dll
+C:\Users\muche\OneDrive\Desktop\DotNetDependencies\obj\Release\net8.0\refint\DotNetDependencies.dll
+C:\Users\muche\OneDrive\Desktop\DotNetDependencies\obj\Release\net8.0\DotNetDependencies.pdb
+C:\Users\muche\OneDrive\Desktop\DotNetDependencies\obj\Release\net8.0\DotNetDependencies.genruntimeconfig.cache
+C:\Users\muche\OneDrive\Desktop\DotNetDependencies\obj\Release\net8.0\ref\DotNetDependencies.dll
